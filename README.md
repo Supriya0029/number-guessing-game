@@ -11,5 +11,11 @@ This is a small Python project where the computer picks a random number, and the
 ##  Requirements
 - Python 3 must be installed on your computer
 
+##  Output Screenshot
+Here’s what the game looks like when you play it:
+
+![Number Guessing Game Output](output.png)
+
+
 ##  Author
 Created by **Supriya Shahane**
